@@ -1,126 +1,98 @@
-<!-- GitHub profile README for github.com/spedrosantos -->
+<!-- Profile README: github.com/spedrosantos -->
 
 <div align="center">
-
-# Pedro Santos
-
-### Software Developer · Backend-focused
-
-Building APIs, working with business rules, and turning real problems into software.
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3400&pause=1100&color=58A6FF&center=true&vCenter=true&width=720&height=45&lines=Building+APIs+with+C%23+and+.NET.;Learning+by+building+real+projects.;Always+improving+my+engineering+skills.)](https://github.com/DenverCoder1/readme-typing-svg)
-
-[![Location](https://img.shields.io/badge/S%C3%A3o_Paulo%2C_Brazil-161B22?style=flat-square&logo=googlemaps&logoColor=58A6FF)](https://www.google.com/maps/place/S%C3%A3o+Paulo/)
-[![Focus](https://img.shields.io/badge/Backend_Development-161B22?style=flat-square&logo=dotnet&logoColor=58A6FF)](https://dotnet.microsoft.com/)
-[![GitHub](https://img.shields.io/badge/@spedrosantos-161B22?style=flat-square&logo=github&logoColor=white)](https://github.com/spedrosantos)
-
+  <img src="./assets/profile-header.svg" alt="Pedro Santos — Software Developer, Backend Engineering, C# and .NET" width="100%" />
+  <br/>
+  <a href="https://github.com/spedrosantos">GitHub</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/spedrosantos?tab=repositories">Projects</a>
+  &nbsp;·&nbsp;
+  <a href="https://frutamina.com.br">Frutamina</a>
 </div>
 
----
+<br/>
 
 ## About
 
-I'm a junior web developer working with enterprise applications, REST APIs, databases, and business logic. My main stack includes **C#, .NET, Angular, TypeScript, and SQL Server**.
+I'm a software developer focused on **backend engineering**, currently working with enterprise applications, REST APIs, databases, and business rules.
 
-I'm studying **Systems Analysis and Development** at Universidade São Judas Tadeu, with expected graduation in **2028**. I also build independent projects to strengthen my backend fundamentals and learn through practical implementation.
+My day-to-day work includes **C#, .NET, Angular, TypeScript, and SQL Server**. I study **Systems Analysis and Development at Universidade São Judas Tadeu**, with expected graduation in 2028.
 
-```csharp
-var pedro = new
-{
-    Role = "Junior Web Developer",
-    MainFocus = "Backend Engineering",
-    Stack = new[] { "C#", ".NET", "SQL", "TypeScript" },
-    CurrentlyBuilding = "Dabar Finance"
-};
-```
+I enjoy understanding complex requirements, turning them into maintainable solutions, and learning through real projects.
 
-## Tech stack
+## Core technologies
 
 <div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,postgres,git,linux,vscode,html,css&theme=dark&perline=11)](https://skillicons.dev)
-
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,postgres,git,linux,vscode&theme=dark" alt="C sharp, .NET, Angular, TypeScript, JavaScript, PostgreSQL, Git, Linux and VS Code" />
 </div>
 
-| Area | Technologies |
-|---|---|
-| **Backend** | C#, .NET, ASP.NET Core, Entity Framework Core, Dapper, REST APIs |
-| **Databases** | SQL Server, PostgreSQL |
-| **Frontend** | Angular, TypeScript, JavaScript, HTML, CSS, Astro |
-| **Tools** | Git, Azure DevOps, Visual Studio, VS Code, Linux |
+| Backend & APIs | Data | Frontend & tools |
+|:--|:--|:--|
+| C#, .NET, ASP.NET Core | SQL Server, PostgreSQL | Angular, TypeScript |
+| Entity Framework Core, Dapper | Relational data modeling | JavaScript, HTML, CSS |
+| REST APIs, business logic | Query optimization | Git, Azure DevOps, Linux |
 
-## Selected projects
+## Selected work
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### [Frutamina Inventory System](https://github.com/spedrosantos/frutamina-projeto-estoque)
-
-Inventory management application built for real warehouse operations.
-
-- Voice-assisted inventory counting
-- Offline workflows and reporting
-- Supabase integration
-
-**Tech:** JavaScript · Supabase · PostgreSQL · PWA
-
-**Impact:** reduced one inventory-counting workflow from approximately **40 to 20 minutes**.
-
-[Repository](https://github.com/spedrosantos/frutamina-projeto-estoque) · [Live preview](https://spedrosantos.github.io/frutamina-projeto-estoque/)
-
-</td>
-<td width="50%" valign="top">
-
-### Dabar Finance
-
-A personal finance backend project focused on accounts, transactions, balances, transfers, and authentication.
-
-- REST API development
-- Database persistence with EF Core
-- PostgreSQL integration
-
-**Tech:** C# · .NET 10 · EF Core · PostgreSQL · JWT
-
-**Status:** under active development.
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/spedrosantos/frutamina-projeto-estoque">Frutamina Inventory</a></h3>
+      <p>Inventory management PWA built for real warehouse operations.</p>
+      <ul>
+        <li>Voice-assisted and manual stock counting</li>
+        <li>Offline workflows, history, dashboards and exports</li>
+        <li>Shared catalog and Supabase persistence</li>
+      </ul>
+      <p><strong>Impact:</strong> reduced one inventory-counting workflow from approximately <strong>40 to 20 minutes</strong>.</p>
+      <p><sub>JavaScript · Supabase · PostgreSQL · PWA</sub></p>
+      <a href="https://spedrosantos.github.io/frutamina-projeto-estoque/">Open live project</a>
+      &nbsp;·&nbsp;
+      <a href="https://github.com/spedrosantos/frutamina-projeto-estoque">Source code</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/spedrosantos/monitor-systemsat">Monitor SystemSat</a></h3>
+      <p>Operational monitoring tool created to improve a vehicle-tracking workflow.</p>
+      <ul>
+        <li>Automates session recovery and repetitive monitoring tasks</li>
+        <li>Applies fleet-specific rules for trucks and trailers</li>
+        <li>Provides audible and desktop alerts, plus report exports</li>
+      </ul>
+      <p><strong>Focus:</strong> operational reliability and faster incident awareness.</p>
+      <p><sub>Automation · Monitoring · Business rules</sub></p>
+      <a href="https://github.com/spedrosantos/monitor-systemsat">View repository</a>
+    </td>
+  </tr>
 </table>
-
-### [Frutamina — Company Website](https://frutamina.com.br)
-
-Designed and developed the company's website using Astro, JavaScript, HTML, and CSS to support its online presence.
 
 ## Experience
 
 **Thoth** · Junior Web Developer  
-*July 2026 — Present*
+<sub>July 2026 — Present</sub>
 
-Working on enterprise applications, REST APIs, integrations, database queries, and business workflows using .NET, Angular, and SQL Server.
+Developing and maintaining enterprise features across REST APIs, backend services, database queries, and Angular interfaces. Working with .NET, C#, SQL Server, Dapper, and legacy integrations.
 
-**Frutamina** · Web & Inventory Projects  
-*Ongoing*
+**Frutamina** · Web and internal systems  
+<sub>2025 — Present</sub>
 
-Developed an inventory management application and the company's website.
+Built an inventory management application for warehouse operations and developed the company's website.
 
 ## GitHub activity
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=spedrosantos&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="GitHub statistics" />
-<img width="49%" src="./languages.svg" alt="Most used programming languages" />
-
-<sub>Language statistics are based on GitHub repository data and do not represent total professional experience.</sub>
-
+  <img src="./languages.svg" alt="Most used programming languages across analyzed repositories" width="100%" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=spedrosantos&show_icons=true&hide_border=true&bg_color=0B1220&title_color=93C5FD&text_color=CBD5E1&icon_color=22D3EE&rank_icon=github" alt="GitHub account statistics" width="100%" />
+  <br/>
+  <sub>Repository language statistics reflect code distribution, not professional experience or skill level.</sub>
 </div>
 
 ---
 
 <div align="center">
-
-**Good software starts with understanding the problem.**
-
-[GitHub](https://github.com/spedrosantos) · [Frutamina](https://frutamina.com.br)
-
+  <strong>Understand the problem. Build the solution. Keep improving.</strong>
+  <br/><br/>
+  <a href="https://github.com/spedrosantos">GitHub profile</a>
+  &nbsp;·&nbsp;
+  <a href="https://frutamina.com.br">Frutamina</a>
 </div>
