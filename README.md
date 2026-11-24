@@ -95,7 +95,7 @@ Frutamina             Web & Inventory Projects   Ongoing
 <div align="center">
 
 <img width="49%" alt="Pedro's GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=spedrosantos&amp;show_icons=true&amp;hide_border=true&amp;theme=github_dark&amp;rank_icon=github" />
-<img width="41%" alt="Most used languages in public repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spedrosantos&amp;layout=compact&amp;hide_border=true&amp;theme=github_dark&amp;langs_count=6" />
+<img width="41%" alt="Most used languages in public repositories" src="./languages.svg" />
 
 <sub>Stats and language breakdown are generated from GitHub public activity; they don't represent total professional experience.</sub>
 
