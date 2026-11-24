@@ -20,6 +20,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: spedrosantos
+          repositories_affiliations: owner, collaborator
           filename: languages.svg
           base: ""
           plugin_languages: yes
