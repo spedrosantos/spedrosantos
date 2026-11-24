@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1220"/>
+      <stop offset="1" stop-color="#111C31"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="80" y1="70" x2="600" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#60A5FA"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" stroke="#94A3B8" stroke-opacity=".08"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="320" rx="22" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="22" fill="url(#grid)"/>
+  <circle cx="1050" cy="130" r="180" fill="#2563EB" fill-opacity=".08"/>
+  <circle cx="1050" cy="130" r="125" stroke="#60A5FA" stroke-opacity=".22"/>
+  <circle cx="1050" cy="130" r="82" stroke="#22D3EE" stroke-opacity=".28"/>
+  <path d="M900 130h65l25-25h55l22 22h72" stroke="url(#accent)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity=".8"/>
+  <path d="M950 190h42l18-18h68l18 18h55" stroke="#60A5FA" stroke-opacity=".5" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="900" cy="130" r="4" fill="#22D3EE"/>
+  <circle cx="1139" cy="127" r="4" fill="#60A5FA"/>
+  <circle cx="950" cy="190" r="4" fill="#60A5FA"/>
+  <text x="76" y="94" fill="#93C5FD" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="600" letter-spacing="4">SOFTWARE DEVELOPER</text>
+  <text x="72" y="166" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="58" font-weight="700" letter-spacing="-1.5">Pedro Santos</text>
+  <rect x="76" y="194" width="58" height="4" rx="2" fill="url(#accent)"/>
+  <text x="76" y="238" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="23">Backend engineering · C# · .NET · APIs</text>
+  <text x="76" y="276" fill="#64748B" font-family="Segoe UI, Arial, sans-serif" font-size="15" letter-spacing="2">BUILDING SOFTWARE THAT SOLVES REAL PROBLEMS</text>
+</svg>
