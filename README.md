@@ -99,9 +99,9 @@ Built an inventory management application for warehouse operations and developed
 ## GitHub activity
 
 <div align="center">
-  <img src="./languages.svg" alt="Most used programming languages across analyzed repositories" width="49%" />
+  <img src="./languages.svg" alt="Most used programming languages across analyzed repositories" width="90%" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=spedrosantos&show_icons=true&hide_border=true&bg_color=0B1220&title_color=93C5FD&text_color=CBD5E1&icon_color=22D3EE&rank_icon=github" alt="GitHub account statistics" width="49%" />
+  <img src="./activity.svg" alt="GitHub account statistics" width="90%" />
   <br/>
   <sub>Repository language statistics reflect code distribution, not professional experience or skill level.</sub>
 </div>
