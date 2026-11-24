@@ -26,11 +26,30 @@ I enjoy understanding complex requirements, turning them into maintainable solut
   <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,postgres,git,linux,vscode&theme=dark" alt="C sharp, .NET, Angular, TypeScript, JavaScript, PostgreSQL, Git, Linux and VS Code" />
 </div>
 
-| Backend & APIs | Data | Frontend & tools |
-|:--|:--|:--|
-| C#, .NET, ASP.NET Core | SQL Server, PostgreSQL | Angular, TypeScript |
-| Entity Framework Core, Dapper | Relational data modeling | JavaScript, HTML, CSS |
-| REST APIs, business logic | Query optimization | Git, Azure DevOps, Linux |
+<div align="center">
+<table>
+  <tr>
+    <th align="center">Backend &amp; APIs</th>
+    <th align="center">Data</th>
+    <th align="center">Frontend &amp; tools</th>
+  </tr>
+  <tr>
+    <td align="center">C#, .NET, ASP.NET Core</td>
+    <td align="center">SQL Server, PostgreSQL</td>
+    <td align="center">Angular, TypeScript</td>
+  </tr>
+  <tr>
+    <td align="center">Entity Framework Core, Dapper</td>
+    <td align="center">Relational data modeling</td>
+    <td align="center">JavaScript, HTML, CSS</td>
+  </tr>
+  <tr>
+    <td align="center">REST APIs, business logic</td>
+    <td align="center">Query optimization</td>
+    <td align="center">Git, Azure DevOps, Linux</td>
+  </tr>
+</table>
+</div>
 
 ## Selected work
 
@@ -80,9 +99,9 @@ Built an inventory management application for warehouse operations and developed
 ## GitHub activity
 
 <div align="center">
-  <img src="./languages.svg" alt="Most used programming languages across analyzed repositories" width="100%" />
+  <img src="./languages.svg" alt="Most used programming languages across analyzed repositories" width="49%" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=spedrosantos&show_icons=true&hide_border=true&bg_color=0B1220&title_color=93C5FD&text_color=CBD5E1&icon_color=22D3EE&rank_icon=github" alt="GitHub account statistics" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=spedrosantos&show_icons=true&hide_border=true&bg_color=0B1220&title_color=93C5FD&text_color=CBD5E1&icon_color=22D3EE&rank_icon=github" alt="GitHub account statistics" width="49%" />
   <br/>
   <sub>Repository language statistics reflect code distribution, not professional experience or skill level.</sub>
 </div>
