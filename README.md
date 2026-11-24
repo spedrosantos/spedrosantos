@@ -2,38 +2,39 @@
 
 <div align="center">
 
-# Hey, I'm Pedro Santos.
+# Pedro Santos
 
-**Software Developer · C# / .NET · Backend-focused**
+### Software Developer · Backend-focused
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3400&pause=1100&color=58A6FF&center=true&vCenter=true&width=770&height=55&lines=Building+APIs+and+solving+real+problems.;From+business+rules+to+working+software.;Always+learning.+Always+building.)](https://github.com/DenverCoder1/readme-typing-svg)
+Building APIs, working with business rules, and turning real problems into software.
 
-[![Location](https://img.shields.io/badge/Based_in-S%C3%A3o_Paulo%2C_Brazil-161B22?style=flat-square&logo=googlemaps&logoColor=58A6FF)](https://www.google.com/maps/place/S%C3%A3o+Paulo/)
-[![Focus](https://img.shields.io/badge/Focus-Backend_%26_APIs-161B22?style=flat-square&logo=dotnet&logoColor=58A6FF)](https://dotnet.microsoft.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-spedrosantos-161B22?style=flat-square&logo=github&logoColor=white)](https://github.com/spedrosantos)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3400&pause=1100&color=58A6FF&center=true&vCenter=true&width=720&height=45&lines=Building+APIs+with+C%23+and+.NET.;Learning+by+building+real+projects.;Always+improving+my+engineering+skills.)](https://github.com/DenverCoder1/readme-typing-svg)
+
+[![Location](https://img.shields.io/badge/S%C3%A3o_Paulo%2C_Brazil-161B22?style=flat-square&logo=googlemaps&logoColor=58A6FF)](https://www.google.com/maps/place/S%C3%A3o+Paulo/)
+[![Focus](https://img.shields.io/badge/Backend_Development-161B22?style=flat-square&logo=dotnet&logoColor=58A6FF)](https://dotnet.microsoft.com/)
+[![GitHub](https://img.shields.io/badge/@spedrosantos-161B22?style=flat-square&logo=github&logoColor=white)](https://github.com/spedrosantos)
 
 </div>
 
 ---
 
-### `whoami`
+## About
 
-I'm a **junior web developer** working with enterprise applications, REST APIs, databases, and business logic. My day-to-day stack includes **C#/.NET, Angular, TypeScript, and SQL Server**.
+I'm a junior web developer working with enterprise applications, REST APIs, databases, and business logic. My main stack includes **C#, .NET, Angular, TypeScript, and SQL Server**.
 
-I study **Systems Analysis and Development** at Universidade São Judas Tadeu (expected graduation: **2028**). Outside of work, I build projects to sharpen my backend skills and learn by solving practical problems.
+I'm studying **Systems Analysis and Development** at Universidade São Judas Tadeu, with expected graduation in **2028**. I also build independent projects to strengthen my backend fundamentals and learn through practical implementation.
 
 ```csharp
 var pedro = new
 {
     Role = "Junior Web Developer",
-    Focus = "Backend Engineering",
+    MainFocus = "Backend Engineering",
     Stack = new[] { "C#", ".NET", "SQL", "TypeScript" },
-    CurrentlyBuilding = "Dabar Finance",
-    Mindset = "Understand the problem. Build the solution. Keep improving."
+    CurrentlyBuilding = "Dabar Finance"
 };
 ```
 
-### `tech-stack`
+## Tech stack
 
 <div align="center">
 
@@ -41,63 +42,76 @@ var pedro = new
 
 </div>
 
-**Backend & data:** C#, ASP.NET Core, Entity Framework Core, Dapper, REST APIs, SQL Server, PostgreSQL  
-**Frontend:** Angular, TypeScript, JavaScript, HTML, CSS, Astro  
-**Tools:** Git, Azure DevOps, Visual Studio, VS Code, Linux
+| Area | Technologies |
+|---|---|
+| **Backend** | C#, .NET, ASP.NET Core, Entity Framework Core, Dapper, REST APIs |
+| **Databases** | SQL Server, PostgreSQL |
+| **Frontend** | Angular, TypeScript, JavaScript, HTML, CSS, Astro |
+| **Tools** | Git, Azure DevOps, Visual Studio, VS Code, Linux |
 
-### `featured-work`
+## Selected projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<strong><a href="https://github.com/spedrosantos/frutamina-projeto-estoque">Frutamina — Inventory System</a></strong>
-<br/><br/>
-A real-world inventory management web app for warehouse operations, with voice-assisted counting, offline workflows, reporting, and Supabase integration.
-<br/><br/>
-<code>JavaScript</code> <code>Supabase</code> <code>PostgreSQL</code> <code>PWA</code>
-<br/><br/>
-<strong>Impact:</strong> helped reduce one inventory-counting workflow from approximately <strong>40 to 20 minutes</strong>.
-<br/><br/>
-<a href="https://github.com/spedrosantos/frutamina-projeto-estoque">Repository</a> · <a href="https://spedrosantos.github.io/frutamina-projeto-estoque/">Live preview</a>
+### [Frutamina Inventory System](https://github.com/spedrosantos/frutamina-projeto-estoque)
+
+Inventory management application built for real warehouse operations.
+
+- Voice-assisted inventory counting
+- Offline workflows and reporting
+- Supabase integration
+
+**Tech:** JavaScript · Supabase · PostgreSQL · PWA
+
+**Impact:** reduced one inventory-counting workflow from approximately **40 to 20 minutes**.
+
+[Repository](https://github.com/spedrosantos/frutamina-projeto-estoque) · [Live preview](https://spedrosantos.github.io/frutamina-projeto-estoque/)
 
 </td>
 <td width="50%" valign="top">
 
-<strong>Dabar Finance — Personal Finance API</strong>
-<br/><br/>
-An evolving backend project for accounts, transactions, balances, transfers, and authentication. Built to deepen my knowledge of .NET and database-backed APIs.
-<br/><br/>
-<code>C#</code> <code>.NET 10</code> <code>EF Core</code> <code>PostgreSQL</code> <code>JWT</code>
-<br/><br/>
-<strong>Status:</strong> under active development. Public repository link to be added when available.
+### Dabar Finance
+
+A personal finance backend project focused on accounts, transactions, balances, transfers, and authentication.
+
+- REST API development
+- Database persistence with EF Core
+- PostgreSQL integration
+
+**Tech:** C# · .NET 10 · EF Core · PostgreSQL · JWT
+
+**Status:** under active development.
 
 </td>
 </tr>
 </table>
 
-**[Frutamina — Company Website](https://frutamina.com.br)**  
-Designed and developed a company website using Astro, JavaScript, HTML, and CSS to support its online presence.
+### [Frutamina — Company Website](https://frutamina.com.br)
 
-### `experience`
+Designed and developed the company's website using Astro, JavaScript, HTML, and CSS to support its online presence.
 
-```text
-Thoth                 Junior Web Developer       Jul 2026 — Present
-                      .NET · Angular · SQL Server · REST APIs
-                      Enterprise systems, integrations and business workflows
+## Experience
 
-Frutamina             Web & Inventory Projects   Ongoing
-                      Internal tools and company website
-```
+**Thoth** · Junior Web Developer  
+*July 2026 — Present*
 
-### `github-activity`
+Working on enterprise applications, REST APIs, integrations, database queries, and business workflows using .NET, Angular, and SQL Server.
+
+**Frutamina** · Web & Inventory Projects  
+*Ongoing*
+
+Developed an inventory management application and the company's website.
+
+## GitHub activity
 
 <div align="center">
 
-<img width="49%" alt="Pedro's GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=spedrosantos&amp;show_icons=true&amp;hide_border=true&amp;theme=github_dark&amp;rank_icon=github" />
-<img width="41%" alt="Most used languages in public repositories" src="./languages.svg" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=spedrosantos&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="GitHub statistics" />
+<img width="49%" src="./languages.svg" alt="Most used programming languages" />
 
-<sub>Stats and language breakdown are generated from GitHub public activity; they don't represent total professional experience.</sub>
+<sub>Language statistics are based on GitHub repository data and do not represent total professional experience.</sub>
 
 </div>
 
@@ -108,7 +122,5 @@ Frutamina             Web & Inventory Projects   Ongoing
 **Good software starts with understanding the problem.**
 
 [GitHub](https://github.com/spedrosantos) · [Frutamina](https://frutamina.com.br)
-
-<!-- Add your verified LinkedIn URL here once ready. -->
 
 </div>
