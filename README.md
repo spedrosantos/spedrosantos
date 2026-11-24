@@ -51,16 +51,16 @@ I enjoy understanding complex requirements, turning them into maintainable solut
       <a href="https://github.com/spedrosantos/frutamina-projeto-estoque">Source code</a>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/spedrosantos/monitor-systemsat">Monitor SystemSat</a></h3>
-      <p>Operational monitoring tool created to improve a vehicle-tracking workflow.</p>
+      <h3>Dabar Finance</h3>
+      <p>Personal finance backend project focused on accounts, transactions, balances, transfers, and authentication.</p>
       <ul>
-        <li>Automates session recovery and repetitive monitoring tasks</li>
-        <li>Applies fleet-specific rules for trucks and trailers</li>
-        <li>Provides audible and desktop alerts, plus report exports</li>
+        <li>REST API organized into application layers</li>
+        <li>Entity Framework Core and PostgreSQL persistence</li>
+        <li>Authentication and user-specific financial data</li>
       </ul>
-      <p><strong>Focus:</strong> operational reliability and faster incident awareness.</p>
-      <p><sub>Automation · Monitoring · Business rules</sub></p>
-      <a href="https://github.com/spedrosantos/monitor-systemsat">View repository</a>
+      <p><strong>Focus:</strong> backend engineering and database-backed API design.</p>
+      <p><sub>C# · .NET · EF Core · PostgreSQL · JWT</sub></p>
+      <span>Private project</span>
     </td>
   </tr>
 </table>
